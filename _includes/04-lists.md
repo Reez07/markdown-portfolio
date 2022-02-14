@@ -1,6 +1,6 @@
-*Travel
-  *Japan
-  *Paris
-*Emojis
+* Travel
+  * Japan
+  * Paris
+* Emojis
   * 💜
   * 🌝
